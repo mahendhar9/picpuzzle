@@ -1,0 +1,36 @@
+.first-row {
+    margin-top:25px;
+}
+
+.pad {
+	width: 11.5% !important;
+	padding:0;
+	margin:0;
+    }
+
+.border1 {
+     border:1px solid #fff;
+    
+}
+
+.column1 {
+    width: 7.33% !important;
+}
+
+.controls {
+    margin:20px 0px 150px 50px;
+    
+}
+
+.undo {
+    margin-top:9px;
+    
+}
+
+.undo button:first-child {
+    margin-left:70px;
+}
+
+.badge {
+    margin-left:50px;
+}
